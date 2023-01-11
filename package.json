@@ -1,5 +1,5 @@
 {
-  "name": "node-learn",
+  "name": "fe-toolbox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerry9022/node-learn.git"
+    "url": "git+https://github.com/jerry9022/fe-toolbox.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jerry9022/node-learn/issues"
+    "url": "https://github.com/jerry9022/fe-toolbox/issues"
   },
-  "homepage": "https://github.com/jerry9022/node-learn#readme",
+  "homepage": "https://github.com/jerry9022/fe-toolbox#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "file-type": "^16.5.4",
